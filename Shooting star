@@ -1,0 +1,14 @@
+var xPos = -18;
+var yPos = 153;
+var aPos = 399;
+var bPos = 199;
+draw = function() {
+    background(29, 40, 115);
+    fill(255, 242, 0);
+    ellipse(xPos, yPos, 10, 10);
+    rect(aPos, bPos, 10, 10);
+    yPos-=0.5;
+    xPos+=6;
+    aPos-=4;
+    bPos+=3;
+};

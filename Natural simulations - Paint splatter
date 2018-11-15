@@ -1,0 +1,37 @@
+var monteCarlo = function()
+{
+    while(true){
+        var r1 = random(1);
+        var probability = r1;
+        var r2 = random(1);
+        if(r2 < probability)
+        {
+            return r1;
+        }
+    }
+};
+
+var monteCarlo2 = function()
+{
+    while(true){
+        var r1 = random(1);
+        var probability = r1;
+        var r2 = random(1);
+        if(r2 < probability)
+        {
+            return r1;
+        }
+    }
+};
+
+for (var i = 0; i<60; i++){
+    var num = monteCarlo();
+    var num2 = monteCarlo2();
+    var clr = 0;
+    var radius = random(1, 60);
+    fill (clr);
+    ellipse(num*360, num2*360, radius, radius);
+    clr++;
+    }
+
+

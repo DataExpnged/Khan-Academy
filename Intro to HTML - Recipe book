@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>An uncommon taste</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#potage">Potage le Magnifique</a></li>
+        </ol>
+        
+        <h2 id="potage">Potage le Magnifique</h2>
+        <img src="https://www.undergearedovercooked.com/uploads/1/6/4/9/16494292/dsc-0213.jpg?1054">
+        <ul>
+            <li>Time: however long it takes</li>
+            <li>Serves: one, I think</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th> 
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>chicken broth</td>
+                    <td> 4 cups</td>
+                </tr>
+                <tr>
+                    <td>beef broth</td>
+                    <td> 4 cups</td>
+                </tr>
+                <tr>
+                    <td>butter</td>
+                    <td> 2 1/2 ounces</td>
+                </tr>
+                <tr>
+                    <td>flour</td>
+                    <td> 1 wooden flagon</td>
+                </tr>
+                <tr>
+                    <td>diced carrots</td>
+                    <td> 1 cup</td>
+                </tr>
+                <tr>
+                    <td>diced onions</td>
+                    <td> 1/2 cup</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>  Stoke the flames of your open-pit fire, and achieve a low heat.
+</p>
+    <p><strong>Step 2:</strong>  Combine all ingredients into a large soup pot.
+</p>
+    <p><strong>Step 3:</strong>  Stir vigorously!
+</p>
+   <p><strong>Step 4:</strong>  Once hot, pour into earthen soup bowls immediately!
+</p>
+    <p><em>Source: <a href="https://www.engadget.com/2011/11/23/joystiq-of-cooking-skyrims-potage-le-magnifique/">Joystiq of cooking</a></em></p>
+    
+    </body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    All tal'dorei content is owned by critical role and geek and sundry, I do not own the concept/name of tal'dorei and all of the accompanying names and content
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #Thordak
+            {
+            color: rgb(255, 0, 21);    
+            }
+            body{
+                background: gold;
+            }
+            h1{
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Tal'dorei</h1>
+        <h3>About Tal'dorei</h3>
+        <p>
+            Tal'dorei is a wonderful land, and home to <em>Vox Machina</em>, famed heros of Exandria. expect beautiful mountains, lovely coastal sights, and forests beyond compare.
+        </p>
+        
+        <h3>Tourist points</h3>
+        <img src="https://www.kasandbox.org/programming-images/avatars/piceratops-ultimate.png">
+        <ul>
+            <li>The grave of <b id="Thordak">Thordak</b>, the cinder king</li>
+            <li>Capital city of Emon</li>
+            <li>The frostweald plains</li>
+            <li>Whitestone, Home of the DeRolo family</li>
+            <li>The elvish city of Syngorn</li>
+            <li>The dwarvish city of Kraghammer</li>
+            
+        </ul>
+        
+    </body>
+</html>

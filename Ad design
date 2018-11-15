@@ -1,0 +1,25 @@
+// IT'S FROM JAAAAAPPPPPPAAAAAAANNN!!!!!!
+draw= function() {
+    background(255, 255, 255);
+    fill(0, 0, 0);
+textSize(30);
+text("Squip", 10, 30);
+textSize(10);
+text("It's from Japan. It's a gray, oblong pill Quantum nano-technology CPU.", 10, 87);
+text("The quantum computer in the pill will travel through your blood until it implants in your", 10, 100);
+text(" brain and it tells you what to do", 10, 113);
+var Squip = function(){
+    rect(113, 132, 150, 150);
+    fill(99, 72, 5);
+    rect(116, 209, 145, 70);
+    noStroke();
+    var x=179;
+    var y=205;
+    fill(168, 168, 168);
+    arc(x+1, y+13, 39, 25, 91, 269);
+    arc(x+15, y+13, 39, 25, 271, 449);
+    rect(x, y, 18, 26);
+};
+
+Squip();
+};

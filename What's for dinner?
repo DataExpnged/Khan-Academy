@@ -1,0 +1,17 @@
+background(186, 145, 20); // wooden table
+ellipse(200, 200, 350, 350); // plate
+ellipse(200, 200, 300, 300); 
+noStroke();
+fill(247, 255, 0);
+rect(110, 119, 170, 170);
+fill(237, 171, 57);
+ellipse(199, 205, 200, 200);
+fill(240, 234, 115);
+ellipse(145, 144, 10, 26);
+ellipse(127, 177, -22, 9);
+ellipse(145, 243, 10, 26);
+ellipse(213, 129, 8, 26);
+ellipse(250, 192, 35, 11);
+ellipse(192, 190, 10, 26);
+ellipse(240, 257, 10, 26);
+ellipse(181, 261, 25, 10);

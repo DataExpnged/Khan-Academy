@@ -1,0 +1,18 @@
+ var answer = random(1, 5);
+draw = function(){
+fill(0, 0, 0);
+ellipse(200, 200, 375, 375);
+fill(60, 0, 255);
+triangle(200, 104, 280, 280, 120, 280);
+fill(255, 255, 255);
+    if (answer >= 4) {
+        text("Certainly", 177, 213);
+    }
+     else if (answer >= 3){
+        text("undetermined", 163, 213);
+    }
+    else if (answer > 0) {
+     text("I don't", 186, 213);
+     text("beleive so", 175, 225);
+    }
+};

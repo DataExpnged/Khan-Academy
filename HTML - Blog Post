@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        <h6>this entire thing is a ready player one reference, also Acererak is owned by wizards of the coast</h6>
+        <h1>Art3mis' blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First key FOUND!</li>
+        </ul>
+        
+        <h2>First post</h2>
+        <h6>Posted on novemebr 12 2045</h6>
+        
+        <p>The first of James Halliday's keys has been found, and I'm one step closer to finding the egg! the lich Acererak never stood a chance!.</p>
+        
+        
+    </body>
+</html>
